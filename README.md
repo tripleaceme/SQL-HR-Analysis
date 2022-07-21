@@ -14,7 +14,7 @@
 
 - The employees with `null` as thier manager_id means that they don't report to anyone and we can afford to fill the database will `null` values.
 - So we create a new table titled managers and pulled the information from the employees manager_id column into it.
-<p> <a href="#" target="blank"><img src="https://github.com/tripleaceme/SQL-HR-Analysis/blob/main/Bad%20to%20Good.png" alt="Modified" /></a> </p>
+<p> <a href="#" target="blank"><img src="https://github.com/tripleaceme/SQL-HR-Analysis/blob/main/Modified%20ER%20Diagram.png" alt="Modified" /></a> </p>
 
 # The Analysis
 - It can be accessed [here](/HR%20Analysis.sql)
